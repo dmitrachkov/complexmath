@@ -19,8 +19,11 @@ Set of functions to operate with complex numbers. Complex numbers presented as `
 |`csqrt`     |Complex Square Root| 
 |`cnroot`    |nth root of a complex number| 
 
-> see
-> [Complex Number article](https://en.wikipedia.org/wiki/Complex_number)
-> [Complex Logarithm article](https://en.wikipedia.org/wiki/Complex_logarithm)
-> [De Moivre's formula article](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
-> [Eulers's formula article](https://en.wikipedia.org/wiki/Euler%27s_formula)
+
+[Complex Number article](https://en.wikipedia.org/wiki/Complex_number)
+
+[Complex Logarithm article](https://en.wikipedia.org/wiki/Complex_logarithm)
+
+[De Moivre's formula article](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
+
+[Eulers's formula article](https://en.wikipedia.org/wiki/Euler%27s_formula)
