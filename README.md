@@ -1,5 +1,5 @@
 # complexmath
-Set of functions to operate with complex numbers. Complex numbers presented as `vector2`
+Set of VEX functions to operate with complex numbers. Complex numbers presented as `vector2`
 
 ### List of functions
 | Name       | Description   |
